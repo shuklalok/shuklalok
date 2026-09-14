@@ -20,4 +20,5 @@ I'm currently working on multiple projects...
 
 📈 my github stats
 
+<!--
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shuklalok&show_icons=true&theme=gotham" alt="shuklalok" />
